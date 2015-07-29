@@ -1,2 +1,0 @@
-# pyscraper
-scraper
